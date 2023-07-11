@@ -163,7 +163,7 @@
 }
 .ins-p{
     font-size: 12px;
-    color: rgba(190, 183, 183, 0.842);
+    color: rgba(95, 80, 80, 0.63);
     padding-bottom: 20px;
     padding-top: 10px;
 }
@@ -189,10 +189,9 @@
 
 .deals-container{
     background-image: url('Flower\ Asset/Rectangle 9.png');
-    width: 70%;
     margin: 70px 200px;
-   
-   
+    background-position: center;
+    background-size: cover;
 
 }
 .deal-text{
