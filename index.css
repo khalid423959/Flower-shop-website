@@ -67,13 +67,13 @@
     width: 250px;
     height: 330px;
     padding: 20px;
-    padding-top: 20px 20px;
+    padding-top: 20px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
     border-radius: 180px 180px 0px 0px;
     box-shadow: 4px 4px 4px gray;
-
 }
+
 .rojone{
     width: 250px;
     height: 300px;
@@ -102,8 +102,8 @@
     text-align: center;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
-    height: 150px;
-    margin: 120px;
+    height: 200px;
+    margin: 140px;
 
 }
 .text-h3{
@@ -111,4 +111,49 @@
     text-align: center;
     font-family: Lato;
     font-size: 14px;
+}
+/* discunt style */
+
+.discunt-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    height: 400px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.dis-p{
+    font-size: 12px;
+    color: rgba(190, 183, 183, 0.842);
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.text-dis{
+    text-align: center;
+}
+.image-dis{
+   
+}
+
+
+/* instragram style */
+.insta-text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+.ins-h3{
+    font-size: 30px;
+}
+.ins-p{
+    font-size: 12px;
+    color: rgba(190, 183, 183, 0.842);
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.istra-image{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
 }
