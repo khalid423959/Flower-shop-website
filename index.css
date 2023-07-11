@@ -141,6 +141,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     padding-top: 50px;
+    
 }
 .ins-h3{
     font-size: 30px;
@@ -155,5 +156,9 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+
+}
+.golap {
+    width: 220px;
     
 }
