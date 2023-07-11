@@ -116,7 +116,7 @@
 
 .discunt-container{
     display: flex;
-    justify-content: center;
+    justify-content:space-around;
     align-items: center;
     background-color: antiquewhite;
     height: 400px;
@@ -131,8 +131,9 @@
 .text-dis{
     text-align: center;
 }
-.image-dis{
-   
+.img{
+   width: 180px;
+   height: 250px;
 }
 
 
@@ -154,20 +155,34 @@
 }
 .istra-image{
     display: flex;
-    justify-content: space-around;
+    /* justify-content: space-around; */
     align-items: center;
+    gap: 20px;
+    padding-left: 200px;
+
 
 }
 .golap {
     width: 220px;
+   
     
 }
 /* subscribe style */
 .deals-container{
-    background-image: url("")
+    background-image: url('Flower\ Asset/');
 }
 .deal-text{
     text-align: center;
+    padding-top: 130px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.deal-head{
+    font-size: 30px;
+}
+.deal-pera{
+    font-size: 12px;
+    padding-bottom: 30px;
+    padding-top: 15px;
 }
 .deal-search-btn{
     display: flex;
