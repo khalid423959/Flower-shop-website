@@ -162,3 +162,14 @@
     width: 220px;
     
 }
+/* subscribe style */
+.deals-container{
+    background-image: url("")
+}
+.deal-text{
+    text-align: center;
+}
+.deal-search-btn{
+    display: flex;
+    justify-content: center;
+}
